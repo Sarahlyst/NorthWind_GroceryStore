@@ -1,6 +1,6 @@
 # REPORTS ON GROCERY STORE ANALYSIS (NORTHWIND)
 ### About
-1.1 MySQL
+
 MySQL is a popular open-source Relational Database Management System (RDBMS) that enables efficient storage, organization, and retrieval of data.
 
 Importance in Database Management:
