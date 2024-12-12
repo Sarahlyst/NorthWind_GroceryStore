@@ -106,7 +106,7 @@ from orderdetails_north;
 These concepts help me with the insights I need to make my conclusions and recommendations. 
 
 #### Challenges faced
-I faced some challenges with the use of joins and aggregate functions, my queries were giving me errors at first but I was able to overcome it with the help of Meta AI and more research on google. Doing this has broaden my understandings on the topics.
+I faced some challenges with the use of joins and aggregate functions, my queries were giving me errors at first but I was able to overcome it with more and more research. Doing this has broaden my understandings on the topics.
 ##### The use of some SQL Queries
 ```sql
 select customerid, sum(freight) as sum_of_freight
